@@ -20,7 +20,6 @@ function setup() {
 
   bounceOffObj2 = createSprite(300, 100, 100, 50);
   bounceOffObj2.shapeColor = "blue";
-  // bounceOffObj2.velocityX = (-4);
 
   box3 = createSprite(50, 50, 30, 30);
   box3.shapeColor = "yellow";
